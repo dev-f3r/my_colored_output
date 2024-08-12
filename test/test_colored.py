@@ -1,2 +1,3 @@
-from my_colored_output import Colored
+from colored_output import Colored
 import pytest
+

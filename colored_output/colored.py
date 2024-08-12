@@ -4,7 +4,6 @@
     Blue text, Red text, Green text
 """
 
-
 class Colored:
     def __init__(self, s: str) -> None:
         self.__s = s
